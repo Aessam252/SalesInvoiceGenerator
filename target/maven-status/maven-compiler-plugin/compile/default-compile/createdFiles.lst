@@ -1,0 +1,10 @@
+com\Invoice\Controller\Actions.class
+com\Invoice\View\ItemDialog.class
+com\Invoice\Model\InvContent.class
+com\Invoice\Model\InvTContent.class
+com\Invoice\View\InvFrame$2.class
+com\Invoice\Model\ItemTContent.class
+com\Invoice\View\InvFrame.class
+com\Invoice\Model\InvItems.class
+com\Invoice\View\InvDialog.class
+com\Invoice\View\InvFrame$1.class
